@@ -1,0 +1,40 @@
+1) The top 10 journals that published papers on this topic
+
+==============TOP 10 JOURNALS=================
+RANK 1 : International journal of psychophysiology : official journal of the International Organization of Psychophysiology(88)
+RANK 2 : Psychophysiology(86)
+RANK 3 : Biological psychology(76)
+RANK 4 : PloS one(48)
+RANK 5 : Behaviour research and therapy(44)
+RANK 6 : Biological psychiatry(31)
+RANK 7 : Emotion (Washington, D.C.)(30)
+RANK 8 : Psychiatry research(23)
+RANK 9 : Psychopharmacology(22)
+RANK 10 : Journal of behavior therapy and experimental psychiatry(22)
+
+
+2)The top 10 authors
+
+==============TOP 10 AUTHORS=================
+RANK 1 : Orr Scott P(30)
+RANK 2 : Milad Mohammed R(30)
+RANK 3 : Pitman Roger K(20)
+RANK 4 : Rhudy Jamie L(15)
+RANK 5 : Kindt Merel(15)
+RANK 6 : Flor Herta(14)
+RANK 7 : Pauli Paul(14)
+RANK 8 : Phelps Elizabeth A(14)
+RANK 9 : Merz Christian J(13)
+RANK 10 : Lang Peter J(13)
+
+4) The top 10 terms that appear in the
+a. Title of the paper
+
+==============TOP 10 TERMS(TITLE)=================
+[('Fear', 344), ('Responses', 213), ('Emotional', 199), ('Anxiety', 150), ('Effects', 144), ('Conditioning', 135), ('Physiological', 124), ('Skin', 123), ('Conductance', 117), ('Autonomic', 117)]
+
+
+b. Abstract of the paper
+
+==============TOP 10 TERMS(ABSTRACT)=================
+[('Fear', 1992), ('Skin', 1855), ('Conductance', 1793), ('Responses', 1608), ('Emotional', 1391), ('Anxiety', 1157), ('Response', 1100), ('Extinction', 990), ('Participants', 985), ('Study', 926)]
